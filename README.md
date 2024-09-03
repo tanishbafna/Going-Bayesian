@@ -1,2 +1,4 @@
-# Going-Bayesian
-A Multi-class Classification Comparison of Logistic Regression, ANNs and Bayesian Neural Networks
+### File Order:
+
+1. Bafna_LR-MLP.ipynb
+2. Bafna_BNN.ipynb
